@@ -1,0 +1,13 @@
+:root { --brand-primary: #0d6efd; }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+pre {
+  white-space: pre-wrap;
+}
