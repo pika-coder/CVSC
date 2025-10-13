@@ -71,8 +71,3 @@ docker run --env-file .env.local -p 3000:3000 cv-review-app
 Then open http://localhost:3000
 
 ---
-
-## 🧭 Roadmap (Next)
-- File uploads (PDF/DOCX) using `pdf-parse` and `mammoth`.
-- Persisted history of reviews.
-- Export/share results.
